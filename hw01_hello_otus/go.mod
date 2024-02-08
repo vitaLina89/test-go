@@ -1,6 +1,6 @@
 module github.com/home_work/hw01_hello_otus
 
-go 1.21.7
+go 1.19
 
 require (
 	github.com/daixiang0/gci v0.12.1 // indirect
